@@ -486,7 +486,7 @@
       },
       "geometry": {
         "coordinates": [
-          -102.562527,
+          -102.567,
           43.020315
         ],
         "type": "Point"
@@ -602,7 +602,7 @@
       },
       "geometry": {
         "coordinates": [
-          -102.562527,
+          -102.567,
           43.020315
         ],
         "type": "Point"
@@ -820,11 +820,11 @@
         "Total Volunteers": 432,
         "Medical Exams": 153,
         "Flu Shots": null,
-        "Glasses": 252,
+        "Glasses": ,
         "Total Patients": 568,
         "City": "Evensville",
         "Extractions": 520,
-        "Total Value of Care": 252882,
+        "Total Value of Care": 882,
         "State": "Tennessee",
         "Fillings": 107,
         "Pet Served": 0,
@@ -902,7 +902,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Expedition": 1252,
+        "Expedition": 1,
         "County/Parish": null,
         "Total Volunteers": 307,
         "Medical Exams": 0,
@@ -1303,7 +1303,7 @@
         ],
         "type": "Point"
       },
-      "id": "08862da50d815bf1056a252bcf7ca874"
+      "id": "08862da50d815bf1056abcf7ca874"
     },
     {
       "type": "Feature",
@@ -21096,7 +21096,7 @@
         "City": null,
         "Extractions": 0,
         "Total Value of Care": 13810,
-        "State": "Oregon/Washington",
+        "State": "Oregon",
         "Fillings": 0,
         "Pet Served": 201,
         "Country": "USA",
@@ -32174,7 +32174,7 @@
         "City": null,
         "Extractions": 0,
         "Total Value of Care": 30530,
-        "State": "Utah/Wyoming",
+        "State": "Wyoming",
         "Fillings": 0,
         "Pet Served": 408,
         "Country": "USA",
@@ -41918,7 +41918,7 @@
         "City": "Wind River Indian Reservation",
         "Extractions": 0,
         "Total Value of Care": 54810,
-        "State": "Nevada and Wyoming",
+        "State": "Wyoming",
         "Fillings": 0,
         "Pet Served": 575,
         "Country": "USA",
